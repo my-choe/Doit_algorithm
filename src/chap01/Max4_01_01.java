@@ -22,19 +22,23 @@ public class Max4_01_01 {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
+		int a,b,c,d;
+		
 		System.out.print("a : ");
-		int a = sc.nextInt();
+		a = sc.nextInt();
 		
 		System.out.print("b : ");
-		int b = sc.nextInt();
+		b = sc.nextInt();
 		
 		System.out.print("c : ");
-		int c = sc.nextInt();
+		c = sc.nextInt();
 		
 		System.out.print("d : ");
-		int d = sc.nextInt();
+		d = sc.nextInt();
 		
-		System.out.println("네 값의 최댓값 : " + max4(a,b,c,d));
+		int max = max4(a,b,c,d);
+		
+		System.out.println("네 값의 최댓값은 " + max + "입니다.");
 		
 		
 
