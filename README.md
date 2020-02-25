@@ -5,7 +5,7 @@
 ## 01 기본 알고리즘
 > **01-1 알고리즘이란?**
 > - [세 값의 최댓값](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/Max3.java)
->  - 조건 판단과 분기
+>  - [조건 판단과 분기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/JudgeSign.java)
 >  - 순서도의 기호
 >
 > **01-2 반복**
