@@ -5,15 +5,14 @@
 ## 01 기본 알고리즘
 > **01-1 알고리즘이란?**
 > - [세 값의 최댓값](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/Max3.java)
->  - [조건 판단과 분기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/JudgeSign.java)
->  - 순서도의 기호
+> - [조건 판단과 분기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/JudgeSign.java)
 >
 > **01-2 반복**
- > - 1부터 n까지의 정수 합 구하기
- > - 양수만 구하기
- > - 구조적 프로그래밍
- > - 다중 루프
- > - 직각 이등변 삼각형 출력
+ > - [1부터 n까지의 정수 합 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/SumWhile.java)
+ > - [양수만 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/SumForPos.java)
+ > - [구조적 프로그래밍](https://github.com/my-choe/Doit_algorithm/commit/02c6f4658f861238141207c71138985290281865)
+ > - [다중 루프](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/Multi99Table.java)
+ > - [직각 이등변 삼각형 출력](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/TriangleLB.java)
 
 
 ## 02 기본 자료구조
