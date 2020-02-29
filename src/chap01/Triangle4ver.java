@@ -50,14 +50,14 @@ public class Triangle4ver {
 	
 
 	public static void main(String[] args) {
-		Scanner stdIn = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		int n;
 
 		System.out.println("삼각형 모양으로 나타냅니다.");
 
 		do {
 			System.out.print("단수는 ：");
-			n = stdIn.nextInt();
+			n = sc.nextInt();
 		} while (n <= 0);
 
 		System.out.println("왼쪽 아래가 직각인 삼각형");
