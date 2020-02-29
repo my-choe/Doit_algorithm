@@ -13,6 +13,7 @@ public class Triangle4ver {
 			System.out.println(); 					// 개행(줄변환)
 		}
 	}
+	
 
 	// 왼쪽 위가 직각인 이등변삼각형을 출력
 	static void triangleLU(int n) {
@@ -34,6 +35,7 @@ public class Triangle4ver {
 			System.out.println();					// 개행(줄변환)
 		}
 	}
+	
 
 	// 오른쪽 아래가 직각인 이등변삼각형을 출력
 	static void triangleRB(int n) {
@@ -45,6 +47,7 @@ public class Triangle4ver {
 			System.out.println(); 					// 개행(줄변환)
 		}
 	}
+	
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
@@ -59,14 +62,18 @@ public class Triangle4ver {
 
 		System.out.println("왼쪽 아래가 직각인 삼각형");
 		triangleLB(n); // 왼쪽 아래가 직각인 이등변삼각형
-
+		System.out.println();
+		
 		System.out.println("왼쪽 위가 직각인 삼각형");
 		triangleLU(n); // 왼쪽 위가 직각인 이등변삼각형
-
+		System.out.println();
+		
 		System.out.println("오른쪽 위가 직각인 삼각형");
 		triangleRU(n); // 오른쪽 위가 직각인 이등변삼각형
-
+		System.out.println();
+		
 		System.out.println("오른쪽 아래가 직각인 삼각형");
 		triangleRB(n); // 오른쪽 아래가 직각인 이등변삼각형
+		System.out.println();
 	}
 }
