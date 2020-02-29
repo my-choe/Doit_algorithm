@@ -23,6 +23,7 @@ public class Triangle4ver {
 		}
 	}
 
+	
 	// 오른쪽 위가 직각인 이등변삼각형을 출력
 	static void triangleRU(int n) {
 		for (int i = 1; i <= n; i++) { 				// i행 (i = 1, 2, … ,n)
