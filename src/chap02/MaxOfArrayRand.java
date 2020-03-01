@@ -29,7 +29,7 @@ public class MaxOfArrayRand {
 		System.out.println("키 값은 아래와 같습니다.");
 		
 		for(int i = 0 ; i < height.length ; i++) {
-			height[i] = 100 + rand.nextInt(90);
+			height[i] = 100 + rand.nextInt(90);		// 100 + (0~89) >>> 키 값 : 100~189
 			System.out.println("height[" + i + "] : " + height[i]);
 		}
 		
