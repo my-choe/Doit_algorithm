@@ -10,16 +10,15 @@
 > **01-2 반복**
  > - [1부터 n까지의 정수 합 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/SumWhile.java)
  > - [양수만 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/SumForPos.java)
- > - [구조적 프로그래밍](https://github.com/my-choe/Doit_algorithm/commit/02c6f4658f861238141207c71138985290281865)
+ > - [구조적 프로그래밍](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/Digits.java)
  > - [다중 루프](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/Multi99Table.java)
  > - [직각 이등변 삼각형 출력](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap01/TriangleLB.java)
 
 
 ## 02 기본 자료구조
 > **02-1 배열**
->  - 자료구조
->  - 배열
->  - 배열 요소의 최댓값 구하기
+>  - [배열](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/IntArray.java)
+>  - [배열 요소의 최댓값 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/MaxOfArray.java)
 >  - 배열 요소를 역순으로 정렬하기
 >  - 두 배열의 비교
 >  - 기수 변환
