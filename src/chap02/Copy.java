@@ -29,7 +29,7 @@ public class Copy {
 			b[i] = sc.nextInt();
 		}
 		
-		copy(a,b);	// 배열b의 모든 요소를 배열 a에 역순으로 복사
+		copy(a,b);	// 배열b의 모든 요소를 배열 a에 복사
 		
 		System.out.println("배열b의 모든 요소를 배열a에 복사했습니다.");
 		for(int i = 0 ; i < numa; i++) {
