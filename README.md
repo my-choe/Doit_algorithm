@@ -19,7 +19,7 @@
 > **02-1 배열**
 >  - [배열](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/IntArray.java)
 >  - [배열 요소의 최댓값 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/MaxOfArray.java)
->  - 배열 요소를 역순으로 정렬하기
+>  - [배열 요소를 역순으로 정렬하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/ReverseArray.java)
 >  - 두 배열의 비교
 >  - 기수 변환
 >  - 소수의 나열
