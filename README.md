@@ -21,7 +21,7 @@
 >  - [배열 요소의 최댓값 구하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/MaxOfArray.java)
 >  - [배열 요소를 역순으로 정렬하기](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/ReverseArray.java)
 >  - [두 배열의 비교](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/ArrayEqual.java)
->  - 기수 변환
+>  - [기수 변환](https://github.com/my-choe/Doit_algorithm/blob/master/src/chap02/CardConvRev.java)
 >  - 소수의 나열
 >  - 다차원 배열
 >  - 한 해의 경과 일 수를 계산하는 프로그램
